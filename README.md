@@ -8,7 +8,7 @@ Place 'run.sh', 'parse.c' and 'fix.c' in the directory where you intend to keep 
 `./run.sh username` (Runs the script, replace 'username' with the user's handle whose solutions you intend to download)
 
 
-*The downloaded solutions get saved in a Directory called 'Codes' inside the directory from where the script was executed.*
+*The downloaded solutions get saved in a directory called 'Codes' inside the directory from where the script was executed.*
 
 *The solutions get saved in the format 'ContestId_ProblemID.extension'. For example, 776_D.cpp is a possible filename.*
 
