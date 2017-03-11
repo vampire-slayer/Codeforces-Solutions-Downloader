@@ -10,7 +10,7 @@ Place 'run.sh', 'parser.c' and 'fix.c' in the directory where you intend to keep
 
 *The downloaded solutions get saved in a directory called 'Codes' inside the directory from where the script was executed.*
 
-*The solutions get saved in the format 'ContestId_ProblemID.extension'. For example, 776_D.cpp is a possible filename.*
+*The solutions get saved in the format 'ContestId_ProblemId.extension'. For example, 776_D.cpp is a possible filename.*
 
 
 In order to use it with proxy, add `export http_proxy="http://username:password@host:port"` to the beginning of 'run.sh'.
