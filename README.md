@@ -1,7 +1,7 @@
 # Codeforces Solutions Downloader
 It is a tool built using Shell script and C to download any user's non-Gym accepted solutions on Codeforces. It has been built primarily for Linux.
 ## Running the tool
-Place 'run.sh', 'parse.c' and 'fix.c' in the directory where you intend to keep the downloaded solutions.
+Place 'run.sh', 'parser.c' and 'fix.c' in the directory where you intend to keep the downloaded solutions.
 ### Run the following commands:
 `chmod +x run.sh` (Makes the script executable)
 
