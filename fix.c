@@ -7,7 +7,7 @@
 
 char buffer[N], scan[N], buff[N], tmpbuf[N];
 char id[M], contest_id[M], idx[M], extension[M], link[M];
-char check[] = "<pre class=\"prettyprint";
+char check[] = "<pre id=\"program-source-text\" class=\"prettyprint";
 
 int main(int argc, char *argv[]) {
   FILE *f1 = NULL;
